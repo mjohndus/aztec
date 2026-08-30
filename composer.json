@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": "^7.1||^8",
-        "tecnickcom/tc-lib-color": "^2.0"
+        "tecnickcom/tc-lib-color": "^3.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^7||^9"
